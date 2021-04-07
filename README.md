@@ -1,6 +1,6 @@
 # FIFA-Classification
 
-##Context
+## Context
 The datasets provided include the players data for the Career Mode from 
 FIFA 15 to FIFA 20 ("fifa20.csv"). The data allows multiple comparison of 
 the same players across the last 6 version of the videogame.
@@ -27,11 +27,11 @@ Updated dataset available
 *  Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.
 *  Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.
 
-##Acknowledgment
+## Acknowledgment
 
 Data has been scraped from the publicly available website [sofifa](https://sofifa.com/)
 
-##Notebook .ipynb classification
+## Notebook .ipynb classification
 This notebook was created to provide information about various 
 aspects of players using interactive plotly visualizations by exploring it
 or we can say EDA(Exploratory Data Analysis). 
